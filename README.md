@@ -1,2 +1,2 @@
 # Skill-Tree-Website
-A basic attempt of a skill tree on a website
+An attempt at a design for a website that represents a skill tree
